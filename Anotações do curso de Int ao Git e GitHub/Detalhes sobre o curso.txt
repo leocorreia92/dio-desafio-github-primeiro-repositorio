@@ -1,0 +1,4 @@
+Nesse curso aprendi sobre o que é o Git e o GitHub
+a instalar o git na maquina, configurá-lo e aprendi a fazer com o que
+meu projeto fosse puxado para o github para que todos possam ver e me ajudar 
+sempre que for necessário. 
