@@ -6,7 +6,7 @@ Nesse desafio aprendi a criar meu repositório no GitHub, clonar para a maquina,
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
-[Download do Git] (https://git-scm.com/download/win)
+[Download do Git](https://git-scm.com/download/win)
 
 
 
